@@ -5,5 +5,5 @@
 
 ## Selected Projects
 
-- [Identity V Survivor Performance Analysis](链接填新仓库的地址)  
+- [Identity V Survivor Performance Analysis](https://github.com/LuciaZheng313/IdentityV-survivor-analysis)  
   Exploratory data analysis project using Python, Pandas, simulation, and regression.
